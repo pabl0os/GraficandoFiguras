@@ -12,6 +12,8 @@ public class Rectangulo extends Figura {
 
     @Override
     public void dibujar(Graphics g) {
+        g.setColor(Figura.color);
+
         g.drawRect(x, y, ancho, alto);
     }
 }

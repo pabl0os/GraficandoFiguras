@@ -12,8 +12,9 @@ public class Linea extends Figura {
 
     @Override
     public void dibujar(Graphics g) {
+        g.setColor(Figura.color);
+
         g.drawLine(x1, y1, x2, y2);
     }
 
-  
 }

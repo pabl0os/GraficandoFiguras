@@ -11,6 +11,7 @@ public class Circulo extends Figura {
 
     @Override
     public void dibujar(Graphics g) {
+        g.setColor(Figura.color);
         g.drawOval(x - radio, y - radio, radio * 2, radio * 2);
     }
 }
