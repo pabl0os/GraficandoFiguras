@@ -1,1 +1,1 @@
-este es un proyecto para graficar figuras simples fue elaborado por parte de la materia de graficacion se constituye de dos partes una para graficar figuras simples y otra para escalar, trasladar y rotar una figura
+este es un proyecto para graficar figuras simples fue elaborado por parte de la materia de graficacion del instituto tecnológico de león 
